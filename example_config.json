@@ -1,0 +1,5 @@
+{
+    "interval": 10,
+    "task": {"ip":"8.8.8.8", "port":80,
+            "actions":["echo 'google is down'", "echo 'google is still down'"]}
+}
