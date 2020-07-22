@@ -169,5 +169,5 @@ func main() {
 	
 	urlCheck(&config)    //do our check
 	
-	wg.Wait()	//wait for the slave and possible master to finish
+	wg.Wait()	//wait for the subordinate and possible main to finish
 }
